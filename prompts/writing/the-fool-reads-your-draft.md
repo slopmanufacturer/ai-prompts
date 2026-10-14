@@ -3,8 +3,9 @@
 > A court jester mocks your writing — and every joke has to land on a real flaw.
 
 **Category:** Writing / Editing / Humor
+**Best for:** Any capable language model
 **Difficulty:** Intermediate
-**Works with:** Any capable language model
+**Output:** A 250–450 word comedy performance that diagnoses real flaws
 
 ## When to use it
 
@@ -13,6 +14,12 @@ You have a draft and you want criticism that actually stings enough to remember.
 The trick is that the mockery is diagnostic. Every jest must quote your actual words and point to something genuinely wrong with them. A jester who insults at random is just a bully. A jester who finds the one cliché you hoped no one would notice is doing the work of a good editor, in a form you will actually remember.
 
 Use it when you want to laugh at your own draft and fix it in the same pass. Do not use it when you are feeling fragile about a piece — the form is designed to be sharp.
+
+## Variables to fill in
+
+| Placeholder | What goes there |
+|---|---|
+| `[PASTE YOUR WRITING HERE]` | Your draft. A few paragraphs to a few pages — short pieces get sharper readings |
 
 ## The prompt
 
@@ -68,9 +75,35 @@ MY WRITING:
 [PASTE YOUR WRITING HERE]
 ````
 
+## Example
+
+**Input:**
+
+> A draft of a blog post opening: *"In today's fast-paced world, we are all drowning in a sea of information, sailing against the tides of distraction..."*
+
+**Output (opening):**
+
+> *[The Fool cartwheels in, bells jingling, and collapses at the foot of the throne.]*
+>
+> *"O rare! The author claims the world is 'fast-paced' — a phrase so fresh it has only been used eleven million times! And behold, we 'drown in a sea' while 'sailing against tides.' My liege, one cannot drown AND sail. Pick a watery fate!"*
+
+## Notes
+
+- **Rule 2 — quote the actual words — is the whole mechanism.** Without it the model defaults to generic roast material. If a jest could apply to any draft, the fool failed.
+- **The sincere last line matters more than the jokes.** That's the takeaway you keep after the comedy fades. If the ending is also a joke, follow up with: *"Drop the act. One sentence: what do I fix first?"*
+- **Long drafts dilute the performance.** Feed it a section, not a manuscript. The fool is sharpest under 1,000 words of input.
+- **It will occasionally invent a flaw to stay in character.** Rule 7 guards against it, but check each jest against your actual text before rewriting anything.
+- **Tone check.** If the mockery drifts toward you rather than the draft — "the writer seems lazy" — restate rule 3 and rerun.
+
+## Follow-up prompts
+
+- "Drop the act. One sentence: what do I fix first?"
+- "Now defend the draft. Argue for the three things you mocked hardest."
+- "Rewrite my weakest line — the one you imitated — three different ways."
+
 ## Version
 
 - Added: 2026-10-10
-- Last updated: 2026-10-10
-- Sources checked: 2026-10-10 (literary and craft sources verified)
+- Last updated: 2026-10-14
+- Changes: conformed to the template — added variables table, example, notes, and follow-up prompts; renamed 'Works with' to 'Best for'; dropped the unverifiable sources-checked line
 
