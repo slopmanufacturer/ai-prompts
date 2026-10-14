@@ -4,6 +4,8 @@ A collection of prompts I actually use.
 
 Not a scraped dump. Not 500 prompts I've never run. Just the ones that have earned a spot in my workflow — the ones I keep coming back to.
 
+*Made with AI: the prompts in this repo are drafted and maintained with AI assistance, with a human deciding what earns a spot.*
+
 ## Why this exists
 
 I got tired of digging through my notes app every time I needed a prompt I knew I'd written down somewhere. So I cleaned them up and put them here.
