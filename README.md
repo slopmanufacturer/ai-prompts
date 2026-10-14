@@ -31,8 +31,10 @@ That's it. No installation, no setup.
 | Prompt | What it does |
 |---|---|
 | [Senior Code Reviewer](./prompts/coding/code-review.md) | Reviews your code like a senior engineer would — honest, not padded with praise |
+| [Rubber Duck Debugger](./prompts/coding/rubber-duck-debugger.md) | Asks pointed questions one at a time until you find the bug yourself |
 | [Explain Like I'm Five](./prompts/learning/explain-like-im-five.md) | Breaks down hard concepts without dumbing them down |
 | [Meeting Summarizer](./prompts/productivity/meeting-summary.md) | Turns a transcript into action items |
+| [Email to Action Items](./prompts/productivity/email-to-action-items.md) | Tells you who owes whom by when — and which messages to skip |
 
 ## The format
 
