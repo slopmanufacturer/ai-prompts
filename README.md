@@ -28,15 +28,42 @@ If you find something useful, take it. That's the whole point.
 
 That's it. No installation, no setup.
 
-## A few to start with
+## All prompts
+
+### [Coding](./prompts/coding/)
 
 | Prompt | What it does |
 |---|---|
 | [Senior Code Reviewer](./prompts/coding/code-review.md) | Reviews your code like a senior engineer would — honest, not padded with praise |
+| [Explain This Diff](./prompts/coding/explain-this-diff.md) | Plain-English walkthrough of a git diff, plus what could break |
+| [Regex Explainer + Builder](./prompts/coding/regex-explainer-builder.md) | Builds or explains a regex, with a list of what it won't match |
 | [Rubber Duck Debugger](./prompts/coding/rubber-duck-debugger.md) | Asks pointed questions one at a time until you find the bug yourself |
+| [Test Case Generator](./prompts/coding/test-case-generator.md) | Lists the test cases worth writing, grouped by intent |
+
+### [Writing](./prompts/writing/)
+
+| Prompt | What it does |
+|---|---|
+| [Cut 20%](./prompts/writing/cut-20-percent.md) | Shortens a draft by deleting, not rewriting — with a list of every cut |
+| [The Fool Reads Your Draft](./prompts/writing/the-fool-reads-your-draft.md) | A court jester mocks your writing — every joke lands on a real flaw |
+| [The Lighthouse Keeper's Last Letter](./prompts/writing/lighthouse-keepers-last-letter.md) | A constrained epistolary prompt — a keeper writes to the lighthouse on its final night |
+| [Unsent Letter Editor](./prompts/writing/unsent-letter-editor.md) | Turns the heated version into the one you can actually send |
+
+### [Learning](./prompts/learning/)
+
+| Prompt | What it does |
+|---|---|
 | [Explain Like I'm Five](./prompts/learning/explain-like-im-five.md) | Breaks down hard concepts without dumbing them down |
-| [Meeting Summarizer](./prompts/productivity/meeting-summary.md) | Turns a transcript into action items |
+| [Feynman Loop](./prompts/learning/feynman-loop.md) | You explain it back; the weakest point gets probed one question at a time |
+| [Interview Me](./prompts/learning/interview-me.md) | A skeptical interviewer probes a topic, then maps your gaps |
+
+### [Productivity](./prompts/productivity/)
+
+| Prompt | What it does |
+|---|---|
+| [Decision Log](./prompts/productivity/decision-log.md) | Turns rambling pros/cons into options, regret analysis, and a call with confidence |
 | [Email to Action Items](./prompts/productivity/email-to-action-items.md) | Tells you who owes whom by when — and which messages to skip |
+| [Meeting Summarizer](./prompts/productivity/meeting-summary.md) | Turns a transcript into decisions, action items, and open questions |
 
 ## The format
 

@@ -16,6 +16,9 @@ PRs are welcome. Three rules:
 
 - One prompt per file, named in lowercase kebab-case, inside the right
   `prompts/<category>/` directory.
+- Add your prompt to the category index (`prompts/<category>/README.md`)
+  and the full index in the root README — a prompt nobody can find is a
+  prompt nobody runs.
 - Placeholders in `[BRACKETS]`, documented in a variables table.
 - Fenced prompt blocks use quadruple backticks when the prompt itself
   contains a triple-backtick block.
