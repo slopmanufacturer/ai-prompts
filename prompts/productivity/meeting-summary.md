@@ -58,7 +58,9 @@ Transcript:
 **Input:**
 
 > Meeting type: weekly engineering sync
-> Transcript: 40-minute recording export, auto-transcribed, no labels
+> Transcript: 40-minute recording export, auto-transcribed, no labels. Excerpt:
+>
+> *"...so the settings redesign — are we doing Thursday? — no, let's put it behind the flag Monday, Thursday's too tight — agreed. Priya can you flip the staging config before Friday — yep. Someone still needs to write the rollback doc, I'll take volunteers offline — silence — okay that stays unassigned for now. And is anyone actually sure the legacy dashboard dies at cutover? — nobody answered. Then around twelve minutes in there's a bit where the transcription mangled a name — sounds like they're assigning the review to 'Mara or Mark-uh', unclear which — moving on..."*
 
 **Output (trimmed):**
 
